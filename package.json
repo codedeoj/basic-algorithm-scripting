@@ -4,7 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "celsius": "node convertCtoF.js",
+    "factorialize": "node factorializeNumber",
+    "repeat": "node repeatString.js",
+    "reverse": "node reverseString",
+    "truncate": "node truncateString"
   },
   "author": "Deoj Balcanao",
   "license": "ISC"
