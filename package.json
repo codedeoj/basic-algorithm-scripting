@@ -6,10 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "celsius": "node convertCtoF.js",
-    "factorialize": "node factorializeNumber",
+    "factorialize": "node factorializeNumber.js",
     "repeat": "node repeatString.js",
-    "reverse": "node reverseString",
-    "truncate": "node truncateString"
+    "reverse": "node reverseString.js",
+    "truncate": "node truncateString.js"
   },
   "author": "Deoj Balcanao",
   "license": "ISC"
